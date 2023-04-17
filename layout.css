@@ -1,0 +1,74 @@
+html {
+  font-size: 62, 5%;
+}
+section {
+  background-color: #304f4f;
+  color: white;
+  padding: 2rem;
+  border: solid black;
+  margin: 1rem;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-block-end: 1rem;
+}
+h1 {
+  font-size: 3.2rem;
+  color: #ddb68a;
+}
+h2 {
+  font-size: 2.8rem;
+  color: #2ff82d;
+}
+h3 {
+  font-size: 2.4rem;
+}
+h4 {
+  font-size: 2.2rem;
+}
+h5 {
+  font-size: 2rem;
+}
+h6 {
+  font-size: 1.8rem;
+}
+p {
+  font-size: 1.6rem;
+}
+
+.strong {
+  font-weight: bold;
+}
+.emphasized {
+  font-style: italic;
+}
+.marked {
+  background-color: yellow;
+  color: black;
+  padding: 0.5rem;
+}
+.small {
+  font-size: 0.8rem;
+  color: red;
+}
+.overlined {
+  text-decoration: line-through;
+}
+
+.underlined {
+  text-decoration: underline;
+}
+.subscript {
+  vertical-align: sub;
+}
+.superscript {
+  vertical-align: super;
+}
